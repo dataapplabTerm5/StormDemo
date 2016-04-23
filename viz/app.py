@@ -1,5 +1,4 @@
 from flask import Flask, render_template, Response
-import numpy as np
 import redis
 import json
 
