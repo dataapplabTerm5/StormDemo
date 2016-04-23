@@ -17,4 +17,4 @@ python app.py <br />
 type http://127.0.0.1:5000/index
 
 ###trigger storm process
-Storm jar target/udacity-storm-hack-0.0.1-SNAPSHOT-jar-with-dependencies.jar udacity.storm.TopNTweetTopology
+storm jar target/realtime-0.1-jar-with-dependencies.jar storm.TopNTweetTopology
