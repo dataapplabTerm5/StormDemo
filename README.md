@@ -7,7 +7,7 @@ mvn clean package
 on mac->  
 brew install redis
 redis-server
-
+on cent os- > sudo service redis start
 reference: http://jasdeep.ca/2012/05/installing-redis-on-mac-os-x/
 
 ###launch website
